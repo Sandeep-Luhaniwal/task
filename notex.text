@@ -1,0 +1,14 @@
+<div class="relative">
+                    <img src="./assets/images/burger-1.png" alt="burger-1" class="we-are-1-top-left">
+                    <img src="./assets/images/burger-1.png" alt="burger-1" class="we-are-1-top-right">
+                    <img src="./assets/images/burger-1.png" alt="burger-1" class="we-are-1-top-right-center">
+                    <img src="./assets/images/burger-1.png" alt="burger-1" class="we-are-1-top-left-center">
+                    <img src="./assets/images/burger-2.png" alt="burger-2" class="we-are-2-top-left">
+                    <img src="./assets/images/burger-2.png" alt="burger-2" class="we-are-2-top-left">
+                    <img src="./assets/images/burger-2.png" alt="burger-2" class="we-are-2-top-right">
+                    <img src="./assets/images/burger-2.png" alt="burger-2" class="we-are-2-top-right-center">
+                    <img src="./assets/images/burger-2.png" alt="burger-2" class="we-are-2-top-left-center">
+                </div>
+
+
+                 <p class="fs-18">Enim scelerisque quisque egestas velit, eget tempus, arcu pulvinar in. Quis sed at sodales aliquam. Amet fermentum, lectus nulla tincidunt egestas.</p>
