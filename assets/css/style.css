@@ -656,7 +656,7 @@ nav div ul li a{
     /* section_4 */
     .box-1{
         margin-right: 20px;
-        
+
     }
     .box-1::after{
         right: -53.5px;
@@ -664,7 +664,7 @@ nav div ul li a{
     }
     .timeLine{
         padding-top: 50px;
-        
+
         z-index: 1;
     }
     .pb-lg-50{
@@ -807,7 +807,7 @@ nav div ul li a{
         font-size: 36px;
         line-height: 72px;
     }
-    
+
     .fs-md-15{
         font-family: 'Poppins', sans-serif;
         font-style: normal;
@@ -854,7 +854,7 @@ nav div ul li a{
     .box-1{
         margin-left: 40px;
         margin-right: 0px;
-        
+
     }
     .box-1::after{
         left: -47.5px;
@@ -921,7 +921,7 @@ nav div ul li a{
    .mt-md-20{
     margin-top: 20px;
    }
-    
+
 }
 @media (max-width: 576px) {
     .col-sm-12{
@@ -975,7 +975,7 @@ nav div ul li a{
         font-size: 30px;
         line-height: 72px;
     }
-    
+
     .fs-sm-12{
         font-family: 'Poppins', sans-serif;
         font-style: normal;
@@ -1019,7 +1019,7 @@ nav div ul li a{
     .box-1{
         margin-left: 40px;
         margin-right: 0px;
-        
+
     }
     .box-1::after{
         left: -47.5px;
@@ -1074,5 +1074,11 @@ nav div ul li a{
    .pl-sm-10{
     padding-left: 10px;
    }
-
+}
+@media (max-width:320px) {
+    .col-s-12{
+        width: 100%;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
 }
